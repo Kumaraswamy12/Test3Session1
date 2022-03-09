@@ -1,1 +1,10 @@
-
+ gcc -g p7original.c
+ ./a.out
+Enter the fraction:
+1 2
+Enter the fraction:
+1 4
+The sum of two fractions:
+1/2
+1/4
+is 3/4

@@ -1,1 +1,7 @@
-
+ gcc -g p5original.c
+ ./a.out
+Enter the array size
+5
+Enter the array elements
+2 4 7 1 8
+The index of the largest element 8 in array is 4
